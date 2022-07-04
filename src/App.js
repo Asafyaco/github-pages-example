@@ -4,7 +4,7 @@ import profileImage from "./assets/‏‏תמונה מסוכות חתוכה - ע
 function App() {
   return (
     <div className="App">
-      <h1>My React app</h1>
+      <h1>My React app </h1>
       <h2>Author: Asaf Yacobovich</h2>
       <img src={profileImage} alt="profle-image"/>
     </div>
